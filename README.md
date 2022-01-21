@@ -1,0 +1,1 @@
+Backend for online collabrative whiteboard project "Board Meeting"
